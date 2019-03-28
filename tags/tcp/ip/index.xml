@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tcp/Ip on </title>
+    <link>/tags/tcp/ip/</link>
+    <description>Recent content in Tcp/Ip on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Mar 2019 10:57:55 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/tcp/ip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 1: Introduction to TCP/IP</title>
+      <link>/posts/style-guide/</link>
+      <pubDate>Tue, 19 Mar 2019 10:57:55 -0500</pubDate>
+      
+      <guid>/posts/style-guide/</guid>
+      <description>The TCP/IP Networking Model: The TCP/IP Networking Model has been in development for some time, replacing the antequated and unorganized proprietary protocols of the past. It provides a layered networking model and standard for different organizations to work with to allow for seamless communication between disparate systems.
+Table 1-2 TCP/IP Architectural Model and Example Protocols:    TCP/IP Architectural Layer Example Protocols     Application HTTP, POP3, SMTP   Transport TCP, UDP   Internet IP   Link Ethernet, Point to Point (PPP), T1    TCP/IP Application Layer Provides services to network applications.</description>
+    </item>
+    
+  </channel>
+</rss>
