@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tcp/Ip on t60r&#39;s blog: the worst thing ever.</title>
-    <link>http://t60r.github.io/tags/tcp/ip/</link>
-    <description>Recent content in Tcp/Ip on t60r&#39;s blog: the worst thing ever.</description>
+    <title>Linux on t60r&#39;s blog: the worst thing ever.</title>
+    <link>http://t60r.github.io/categories/linux/</link>
+    <description>Recent content in Linux on t60r&#39;s blog: the worst thing ever.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Jan 2019 20:28:52 +0700</lastBuildDate>
     
-	<atom:link href="http://t60r.github.io/tags/tcp/ip/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://t60r.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
